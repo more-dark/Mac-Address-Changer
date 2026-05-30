@@ -53,13 +53,13 @@ T-D Organistaion (Team Dark)
 
 ```bash
 git clone https://github.com/more-dark/Mac-Address-Changer.git
-cd mac-changer
+cd Mac-Address-Changer
 ```
 ```bash
-chmod +x macchanger.sh
+chmod +x mac-changer.sh
 ```
 ```bash
-sudo ./macchanger.sh
+sudo ./mac-changer.sh
 ```
 
 # 1️⃣ Clone the repository By Name
