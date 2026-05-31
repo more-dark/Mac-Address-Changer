@@ -66,17 +66,17 @@ sudo ./mac-changer.sh
 
 ### Debian/Ubuntu
 ```
-sudo apt install macchanger -y   # Debian/Ubuntu
+sudo apt install Mac-Address-Changer -y   # Debian/Ubuntu
 ```
 
 ### Arch Linux
 ```
-sudo pacman -S macchanger        # Arch Linux
+sudo pacman -S Mac-Address-Changer        # Arch Linux
 ```
 
 ### Fedora
 ```
-sudo dnf install macchanger      # Fedora
+sudo dnf install Mac-Address-Changer      # Fedora
 ```
 
 # ⭐ Show your support
