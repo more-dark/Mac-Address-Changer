@@ -62,23 +62,6 @@ chmod +x mac-changer.sh
 sudo ./mac-changer.sh
 ```
 
-# 1️⃣ Clone the repository By Name
-
-### Debian/Ubuntu
-```
-sudo apt install Mac-Address-Changer -y   # Debian/Ubuntu
-```
-
-### Arch Linux
-```
-sudo pacman -S Mac-Address-Changer        # Arch Linux
-```
-
-### Fedora
-```
-sudo dnf install Mac-Address-Changer      # Fedora
-```
-
 # ⭐ Show your support
 
 If you like this tool, give it a star on GitHub!
