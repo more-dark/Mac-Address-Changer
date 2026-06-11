@@ -61,6 +61,26 @@ chmod +x mac-changer.sh
 sudo ./mac-changer.sh
 ```
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+This tool is EXCLUSIVELY for Chat Spaming
+❌ No one may change, edit, or modify this tool.
+❌ No redistribution.
+✅ sharing allowed.
+✅ Use freely — but only as-is.
+
+See LICENSE file for full terms.
+📞 SUPPORT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+For BLADE support:
+• Read this README fully first
+• Join [https://discord.gg/bUPqSj8VzR](https://discord.gg/bUPqSj8VzR) for any issue
+• Contact tool author directly (ROOT & BLADE)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 # ⭐ Show your support
 
 If you like this tool, give it a star on GitHub!
